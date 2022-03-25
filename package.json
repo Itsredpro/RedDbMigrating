@@ -1,0 +1,25 @@
+{
+  "name": "reddbmigrate",
+  "version": "1.0.0",
+  "description": "A migrater",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Itsredpro/RedDbMigrating.git"
+  },
+  "keywords": [
+    "migrater"
+  ],
+  "author": "itsredstonepro#0979",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Itsredpro/RedDbMigrating/issues"
+  },
+  "homepage": "https://github.com/Itsredpro/RedDbMigrating#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
